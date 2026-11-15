@@ -1,3 +1,29 @@
+# ai-berkshire
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+An AI-era value-investing research framework built on Claude Code and Codex, combining Buffett, Munger, Duan Yongping and Li Lu methodologies with parallel multi-agent research.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架，融合巴菲特、芒格、段永平、李录方法论与多 Agent 并行研究。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 中文 | [English](README_EN.md) | [日本語](README_JA.md)
 
 [![GitHub Trending](https://trendshift.io/api/badge/repositories/63696)](https://trendshift.io/repositories/63696)
